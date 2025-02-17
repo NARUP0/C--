@@ -41,7 +41,7 @@ int main()
     // {
     // case 18:
     //     cout<<"you are 18"<<endl; 
-    //     break;                               // breaks are use to get out of function. 
+    //     break;                               // breaks are use to get out of a current function. 
 
     // case 0:
     //     cout<<"you are not even born kid !!!!!"<<endl;    
