@@ -27,4 +27,11 @@ main()
     //     cout<<i<<endl;
     //     i++ ;        
     // }while(false);
+
+    // /********************************challange accepted****************************/
+    // int i = 0 ;
+    // do{
+    //     cout<<"6 "<<"* "<<setw(2)<<i<<" = "<<setw(2)<<6*i<<endl;
+    //     i++;
+    // }while(i<=10);    
 }
