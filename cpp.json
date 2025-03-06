@@ -1,0 +1,15 @@
+{
+	"boilerplate": {
+		"prefix" : "boilerplate code",
+		"body" : [
+			"#include<iostream>\n",
+			"using namespace std ;\n",
+			"int main()",
+			"{",
+				"\t$0\n",
+				"\treturn 0;",
+			"}"
+		],
+		"description": "this is boilerplate code"
+	}
+}
