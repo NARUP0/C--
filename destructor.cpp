@@ -42,6 +42,7 @@
        
        num o1 ; // First object created; constructor is called
    
+       // Block
        {
            cout<<"entering block "<<endl;
            cout<<"creating other two objects"<<endl;
